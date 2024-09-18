@@ -1,0 +1,6 @@
+ID;documentNumber;senderAddress;recipientAddress;deliveryOption;trackingNumber
+0795236c-80b4-4b80-89fd-8ff29c9d80e3;D123456789;123 Main St;456 Elm St;Standard Shipping;
+0b603534-86f7-4434-bf65-c48369c9ea4d;D987654321;789 Oak Ave;321 Pine Ave;Express Shipping;
+9736e38e-a9fd-4f3a-a15d-2aae6fc264ae;D555555555;555 Maple Dr;888 Willow Ln;Priority Shipping;
+307f8275-4da7-4e23-8946-c521bc562f7c;D111111111;111 Cherry Ave;222 Peach St;Standard Shipping;
+9ec7767e-e4d8-4ba1-b33b-31d8e5e1d685;D999999999;999 Oak St;777 Elm Ave;Express Shipping;
